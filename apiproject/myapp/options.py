@@ -6,3 +6,7 @@ SIZE_OPTIONS = [
     ('medium', 'Medium'),
     ('large', 'Large'),
 ]
+GENDER_CHOICES = [
+    ('Female','female'),
+    ('Male','male'),
+]
